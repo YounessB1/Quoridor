@@ -1,0 +1,14 @@
+.\players.o: players\players.c
+.\players.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\players.o: players\../GLCD/GLCD.h
+.\players.o: C:\Users\bouch\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\LPC17xx.h
+.\players.o: C:\Users\bouch\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h
+.\players.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\players.o: C:\Users\bouch\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h
+.\players.o: C:\Users\bouch\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h
+.\players.o: C:\Users\bouch\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h
+.\players.o: C:\Users\bouch\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h
+.\players.o: C:\Users\bouch\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h
+.\players.o: players\../game/game.h
+.\players.o: players\../map/map.h
+.\players.o: players\../players/players.h
